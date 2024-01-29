@@ -1,0 +1,14 @@
+.magic-ball{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(31, 45, 89);
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    overflow: hidden;
+}
+.button{
+    padding: 40px
+}
